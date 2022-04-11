@@ -1,4 +1,4 @@
-import { maxPic } from './maxPic.js';
+import { maxPic } from './max-pic.js';
 import { expandComments } from './expand.js';
 import { enableFilters } from './filtering.js';
 
